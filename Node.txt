@@ -1,0 +1,58 @@
+What is Node.js ?
+- node js is crossplatform
+- open soursce java script runtime enviroment
+- using java script for  sever side 
+- creact fllstsck applications using a single programing lang.
+
+What is a sever ?
+- A Sever is a computer or system that provides ,data ,services 
+ like windows,macos and linux etc. need to be rewitten for each platform.
+
+What is cross-platform?
+- crossplatform refers to software tahat can run on muliple operating syseams
+- like windows,macos and linux    
+
+What is sever side scripting ?
+- wrighting  coad a run on sever rathar than client in brouser.
+
+ALTERNATIVE ?
+    RUBY
+    PHP
+    JAVA
+    PYTHON
+
+APP ?
+    Real-Time Applications
+    Data streming
+    ChatBOT
+
+REPL (Read-Eval-Print-Loop)
+
+Read - read the code in terminal
+Eval - Eval the code 
+Print - Print the result
+Loop - Repeat the abbove code
+
+GLOBAL 
+
+    __Filename :
+    __dirname :
+
+ What is MODUAL ?
+    Function or feture which can import and export.
+
+    1.Core 
+    2.Local
+    3.3rd Party
+
+1. Core - built in Function in node no need to install.
+
+    HTTPS - Hyper text transfer Protocol
+    FS -
+    PATH - 
+    StringQuerry -
+    URL - 
+
+2. Local - User defind modual created with node js.
+
+3. 3rd Party - Npm based functions which you have to install.
